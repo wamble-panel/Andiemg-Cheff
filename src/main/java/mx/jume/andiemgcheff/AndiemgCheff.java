@@ -46,7 +46,7 @@ public class AndiemgCheff extends JavaPlugin {
             LOGGER.at(Level.INFO).log("Target mod (Aqua-Thirst-hunger) not detected. Skipping automatic sync.");
         }
 
-        LOGGER.at(Level.INFO).log("AndiemgCheff v1.1.1 enabled!");
+        LOGGER.at(Level.INFO).log("AndiemgCheff v1.1.2 enabled!");
     }
 
     public static AndiemgCheff getInstance() {
