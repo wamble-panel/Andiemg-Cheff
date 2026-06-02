@@ -3,11 +3,11 @@ plugins {
 }
 
 group = "mx.jume.andiemgcheff"
-version = "1.1.2"
+version = "1.1.3"
 
 java {
     toolchain {
-        languageVersion.set(JavaLanguageVersion.of(21))
+        languageVersion.set(JavaLanguageVersion.of(25))
     }
 }
 
