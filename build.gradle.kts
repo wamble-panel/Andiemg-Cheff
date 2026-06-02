@@ -3,7 +3,7 @@ plugins {
 }
 
 group = "mx.jume.andiemgcheff"
-version = "1.1.3"
+version = "1.1.4"
 
 java {
     toolchain {
